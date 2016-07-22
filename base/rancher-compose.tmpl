@@ -1,0 +1,8 @@
+.catalog:
+  name: {{ .Branch }}
+  version: {{ .Tag }}
+  description: {{ .Project }}
+  uuid: {{ .Branch }}-{{ .Count }}
+
+{{ .Project }}:
+  scale: 1
