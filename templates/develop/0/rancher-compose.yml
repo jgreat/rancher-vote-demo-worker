@@ -1,0 +1,8 @@
+.catalog:
+  name: develop
+  version: jgreat_vote-demo-worker_develop_1.0.0_4_47b0d079
+  description: vote-demo-worker
+  uuid: develop-0
+
+vote-demo-worker:
+  scale: 1
