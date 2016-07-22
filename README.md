@@ -1,0 +1,1 @@
+# rancher-vote-demo-worker
