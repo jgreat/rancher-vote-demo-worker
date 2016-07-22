@@ -1,0 +1,8 @@
+.catalog:
+  name: feature-inital-build
+  version: jgreat_vote-demo-worker_feature-inital-build_1.0.0_3_3ece51b4
+  description: vote-demo-worker
+  uuid: feature-inital-build-1
+
+vote-demo-worker:
+  scale: 1
