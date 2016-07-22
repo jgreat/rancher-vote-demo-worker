@@ -1,0 +1,7 @@
+vote-demo-worker:
+  image: jgreat/vote-demo-worker:jgreat_vote-demo-worker_feature-inital-build_1.0.0_2_8b6f42db
+  environment:
+    RANCHER_SERVICE_DISCOVERY: 'true'
+  labels:
+    io.rancher.container.pull_image: always
+    io.rancher.container.hostname_override: container_name
