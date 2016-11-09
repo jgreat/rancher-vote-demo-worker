@@ -1,0 +1,8 @@
+.catalog:
+  name: update_rancher_metadata
+  version: jgreat_vote-demo-worker_update_rancher_metadata_1.1.1_9_de75204d
+  description: vote-demo-worker
+  uuid: update_rancher_metadata-0
+
+vote-demo-worker:
+  scale: 1
