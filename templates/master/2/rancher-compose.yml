@@ -1,0 +1,8 @@
+.catalog:
+  name: master
+  version: v1.1.2
+  description: vote-demo-worker
+  uuid: master-2
+
+vote-demo-worker:
+  scale: 1
